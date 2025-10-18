@@ -1,0 +1,6 @@
+sku,name,brand,color,size,mrp,price,quantity
+SKU1,Shirt,BloomWear,Red,M,1000,800,10
+SKU2,Jeans,DenimCo,Blue,32,2000,1500,5
+SKU3,Tshirt,BloomWear,Black,L,1200,1000,20
+SKU4,Jacket,WinterPro,Gray,XL,5000,4500,7
+SKU5,Sneakers,RunFast,White,9,3000,2700,15
